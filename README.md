@@ -1,8 +1,8 @@
 <iDOCTYPE html>
 <html>
 <head>
-<title>MyPersonal Introduction</title>
-  <style>body{background-color: 4F1307} h1{color: F2C061} p{color: A3CE99}</style>
+<title> MyPersonal Introduction </title>
+  <style> body {background-color: 4F1307} h1 {color: F2C061} p {color: A3CE99} </style>
 </head>
 
 <body>
