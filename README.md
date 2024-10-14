@@ -2,13 +2,13 @@
 <html>
 <head>My Personal Introduction <style> 
   body {
-  background-color: 4F1307;
+  background-color:4F1307;
   } 
   h1 {
-    color: F2C061;
+    color:F2C061;
   } 
   p {
-    color: A3CE99;
+    color:A3CE99;
   }
 </style></head>
   
